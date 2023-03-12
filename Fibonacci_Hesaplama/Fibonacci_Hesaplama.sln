@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci_Hesaplama", "Fibonacci_Hesaplama\Fibonacci_Hesaplama.csproj", "{3F0DF116-C475-4D86-A961-C5F017C094FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0DF116-C475-4D86-A961-C5F017C094FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0DF116-C475-4D86-A961-C5F017C094FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0DF116-C475-4D86-A961-C5F017C094FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0DF116-C475-4D86-A961-C5F017C094FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B777471C-35E7-40AD-AAE9-4BA43434E372}
+	EndGlobalSection
+EndGlobal
